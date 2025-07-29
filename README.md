@@ -5,11 +5,12 @@
 </div>
 
 <div style="display:flex; justify-content:space-between; align-items:center;">
-  <h1 style="margin:0;">⭐️Volodymyr Bukhalo⭐️</h1>
-  <a href="https://exleven.com" target="_blank" style="padding:6px 14px; background:#0077B5; color:white; font-weight:bold; text-decoration:none; border-radius:6px;">
-    🌐 Visit my portfolio
+  <a href="https://exleven.com" target="_blank" style="text-decoration:none; color:black;">
+    <h1 style="margin:0;">⭐️Volodymyr Bukhalo⭐️</h1>
   </a>
+  <div style="font-weight:bold; color:#0077B5;">🌐 Visit my portfolio</div>
 </div>
+
 
 ### **`Software Engineer`**
 
