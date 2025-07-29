@@ -1,14 +1,15 @@
 <div align="center">
-  <a href="https://exleven.com" target="_blank" title="portfolio" style="text-decoration:none;">
-    <img height="120" src="https://dl.dropboxusercontent.com/scl/fi/4pp75xqer2vexqr8ikwaq/backkground.png?rlkey=y3fqmzxq56iad800i7otvqbke&st=z28z4bdc&dl=0" />
-    <div style="margin-top:8px; font-weight:bold; font-size:18px; color:#0077B5;">🌐 Visit My Portfolio</div>
+  <a href="https://exleven.com" target="_blank" title="portfolio">
+    <img height="120" src="https://dl.dropboxusercontent.com/scl/fi/4pp75xqer2vexqr8ikwaq/backkground.png?rlkey=y3fqmzxq56iad800i7otvqbke&st=z28z4bdc&dl=0"  />
   </a>
 </div>
 
-
-
-
-# ⭐️Volodymyr Bukhalo⭐️
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <h1 style="margin:0;">⭐️Volodymyr Bukhalo⭐️</h1>
+  <a href="https://exleven.com" target="_blank" style="padding:6px 14px; background:#0077B5; color:white; font-weight:bold; text-decoration:none; border-radius:6px;">
+    🌐 Visit my portfolio
+  </a>
+</div>
 
 ### **`Software Engineer`**
 
