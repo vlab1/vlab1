@@ -10,8 +10,6 @@
 
 With over three years of experience, I specialize in backend development, database design, and system architecture. My focus is on building scalable, reliable, and high-performance systems that ensure seamless operation and long-term maintainability.
 
-Let’s create robust solutions and bring your ideas to life together!
-
   <div align="left">
     <a href="https://www.linkedin.com/in/volodymyr-bukhalo/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="linkedin logo"/></a>
