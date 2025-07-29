@@ -1,10 +1,9 @@
 <div align="center">
-  <img height="120" src="https://dl.dropboxusercontent.com/scl/fi/4pp75xqer2vexqr8ikwaq/backkground.png?rlkey=y3fqmzxq56iad800i7otvqbke&st=z28z4bdc&dl=0"  />
-  <p style="margin-top: 8px; font-size: 18px; font-weight: 600;">
-    Check out my portfolio: 
-    <a href="https://exleven.com" target="_blank" style="color:#1a73e8; text-decoration:none;">exleven.com</a>
-  </p>
+  <a href="https://exleven.com" target="_blank" title="portfolio">
+    <img height="120" src="https://dl.dropboxusercontent.com/scl/fi/4pp75xqer2vexqr8ikwaq/backkground.png?rlkey=y3fqmzxq56iad800i7otvqbke&st=z28z4bdc&dl=0"  />
+  </a>
 </div>
+
 
 # ⭐️Volodymyr Bukhalo⭐️
 
