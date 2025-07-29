@@ -1,12 +1,10 @@
 <div align="center">
-  <a href="https://exleven.com" target="_blank" title="portfolio">
+  <a href="https://exleven.com" target="_blank" title="portfolio" style="text-decoration:none;">
     <img height="120" src="https://dl.dropboxusercontent.com/scl/fi/4pp75xqer2vexqr8ikwaq/backkground.png?rlkey=y3fqmzxq56iad800i7otvqbke&st=z28z4bdc&dl=0" />
-  </a>
-  <br>
-  <a href="https://exleven.com" target="_blank" style="display:inline-block; margin-top:10px; padding:8px 16px; background:#0077B5; color:white; font-weight:bold; border-radius:6px; text-decoration:none;">
-    🌐 Open Portfolio
+    <div style="margin-top:8px; font-weight:bold; font-size:18px; color:#0077B5;">🌐 Visit My Portfolio</div>
   </a>
 </div>
+
 
 
 
