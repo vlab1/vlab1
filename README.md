@@ -23,78 +23,20 @@ Let’s create robust solutions and bring your ideas to life together!
 
 ### 💻 Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="50" alt="woocommerce logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" alt="cloudflare logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="prisma logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=azure" height="50" alt="azure logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="50" alt="grafana logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="graphql logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=jest" height="50" alt="jest logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="50" alt="kafka logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="50" alt="rabbitmq logo" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
-</div>
+#### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,bash" height="50" />
 
+#### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" height="50" />
+
+#### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" height="50" />
+
+#### DevOps / Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,azure,cloudflare" height="50" />
+
+#### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50" />
 
 ---
 
