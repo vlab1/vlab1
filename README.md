@@ -2,6 +2,13 @@
   <img height="120" src="https://dl.dropboxusercontent.com/scl/fi/4pp75xqer2vexqr8ikwaq/backkground.png?rlkey=y3fqmzxq56iad800i7otvqbke&st=z28z4bdc&dl=0"  />
 </div>
 
+<div align="center" style="margin-bottom: 20px;">
+  <h2>🎯 Check out my portfolio</h2>
+  <a href="https://exleven.com" target="_blank" style="font-size: 20px; font-weight: bold; color: #1a73e8; text-decoration: none;">
+    exleven.com
+  </a>
+</div>
+
 # ⭐️Volodymyr Bukhalo⭐️
 
 ### **`Software Engineer`**
@@ -9,8 +16,6 @@
 With over three years of experience, I specialize in backend development, database design, and system architecture. My focus is on building scalable, reliable, and high-performance systems that ensure seamless operation and long-term maintainability.
 
 Let’s create robust solutions and bring your ideas to life together!
-
-Check out my portfolio: [exleven.com](https://exleven.com)
 
   <div align="left">
     <a href="https://www.linkedin.com/in/volodymyr-bukhalo/" target="_blank">
