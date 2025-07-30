@@ -12,15 +12,16 @@ With over three years of experience, I specialize in backend development, databa
 
 <div align="left">
   <a href="https://exleven.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=000000&labelColor=000000&style=for-the-badge&logoColor=white" height="30" alt="portfolio link"/>
+    <img src="https://img.shields.io/static/v1?message=My%20Website&logo=google-chrome&label=&color=000000&logoColor=white&style=for-the-badge" height="30" alt="my website"/>
   </a>
   <a href="https://www.linkedin.com/in/volodymyr-bukhalo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"/>
   </a>
-  <a href="https://www.behance.net/volodymyrbukhalo" target="_blank">
+  <a href="https://www.behance.net/Exleven" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&style=for-the-badge" height="30" alt="behance logo"/>
   </a>
 </div>
+
 
 
 ---
