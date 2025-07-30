@@ -21,22 +21,7 @@ With over three years of experience, I specialize in backend development, databa
 ---
 
 ### 💻 Tech Stack
-
-#### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,bash" height="50" />
-
-#### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" height="50" />
-
-#### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" height="50" />
-
-#### DevOps / Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,gcp,azure,cloudflare" height="50" />
-
-#### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50" />
-
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nestjs,nextjs,express,pytorch,graphql,postgres,mongodb,mysql,sqlite,redis,kafka,rabbitmq,docker,kubernetes,terraform,ansible,nginx,aws,gcp,azure,cloudflare,firebase,git,github,githubactions" height="50" />
 ---
 
 ### 🛠️ Latest Project
