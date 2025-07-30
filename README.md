@@ -6,7 +6,7 @@
 
 # ⭐️Volodymyr Bukhalo⭐️
 
-### **`Software Engineer`**
+### **`Software Engineer, Back-End`**
 
 With over three years of experience, I specialize in backend development, database design, and system architecture. My focus is on building scalable, reliable, and high-performance systems that ensure seamless operation and long-term maintainability.
 
