@@ -20,7 +20,6 @@ With over three years of experience, I specialize in backend development, databa
 </div>
 
 
-
 ---
 
 ### 💻 Tech Stack
@@ -28,6 +27,7 @@ With over three years of experience, I specialize in backend development, databa
 <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nestjs,nextjs,express,pytorch,graphql,postgres,mongodb,mysql,sqlite,redis,kafka,rabbitmq,docker,kubernetes,terraform,ansible,nginx,aws,gcp,azure,cloudflare,firebase,git,github,githubactions" height="125" />
 -->
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,express,graphql,postgres,mongodb,mysql,sqlite,redis,kafka,rabbitmq,docker,kubernetes,terraform,ansible,nginx,aws,gcp,azure,cloudflare,firebase,git,github,githubactions" height="125" />
+
 ---
 
 ### 🛠️ Latest Project
