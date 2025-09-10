@@ -17,6 +17,8 @@ With over three years of experience, I specialize in backend development, databa
   <a href="https://www.linkedin.com/in/volodymyr-bukhalo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"/>
   </a>
+    <a href="https://www.behance.net/volodymyrbukhalo" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge&labelColor=CE4630" height="30" alt="behance logo"/></a>
 </div>
 
 
