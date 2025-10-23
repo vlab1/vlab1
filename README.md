@@ -15,7 +15,7 @@ Within projects, I have developed platforms for such areas as e-commerce, digita
 I have practical experience in the following areas:
 - Architectural approaches for server applications (Clean Architecture, Modular Monolith, DDD);
 - Working with WebSocket: designing real-time systems, scaling, and optimizing for high load;
-- Working with cloud storage, including S3-compatible (Cloudflare R2, MinIO) and Firebase Storage; databases (MongoDB, PostgreSQL, MySQL) and ORM/ODM (Prisma, TypeORM, Sequelize, Mongoose);
+- Working with cloud storage, including S3-compatible (Cloudflare R2, MinIO) and Firebase Storage; databases (MongoDB, PostgreSQL, MySQL) and ORM/ODM (Prisma, TypeORM, Sequelize, Mongoose); experienced with Firebase and Supabase;
 - Integrations: mailing and notifications — SMTP, OneSignal; domain management — Cloudflare, NameCheap (integration with applications and deployment setup for SaaS web builder platforms); subscription services — Recurly; payment systems — Stripe, PayPal, A-Pay; marketing and tracking — Keitaro, Affise, Facebook Conversions API; AI API — OpenAI API; blockchain API — TronAPI; authentication — Firebase Auth; other — Nova Poshta API;
 - Testing practices: writing and implementing unit and integration tests (Jest); load and stress testing using k6;
 - Infrastructure and DevOps: experience with Docker, CI/CD, blue-green deployment, Traefik, NGINX; monitoring using Prometheus and Grafana; Serverless solutions (Cloud Functions for Firebase); deploying and managing applications in cloud environments GCP, Firebase, Cloudflare, and on VPS.
