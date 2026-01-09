@@ -45,50 +45,50 @@ Additionally, I have experience in Front-End development (HTML, CSS, JS, React),
 
   ### 🛠️ Latest Project
 
-  <div align="left">
-    <table>
+<div align="center">
+  <table align="center">
   <tr>
-      <td align="left" width="400" height="225">
+      <td align="center" width="400" height="225">
         <a href="https://exleven.com" target="_blank">
-      <img src="https://github.com/user-attachments/assets/7dae7f95-9510-4479-bc79-8dc6fcaf3057" alt="IGaming Web Application" max-width="100%">
+      <img src="https://github.com/user-attachments/assets/7dae7f95-9510-4479-bc79-8dc6fcaf3057" alt="IGaming Web Application" style="max-width:100%;">
     </a>
         <div><strong>IGaming Web Application</strong></div>
-        <div><strong><code>NodeJS (Nest.js) | Real-time | Multiplayer | High Load | Provably Fair </code></strong></div>
+        <div><strong><code>NodeJS (Nest.js) | Real-time | Multiplayer | Provably Fair </code></strong></div>
     </td>
-    <td align="left" width="400" height="225">
+    <td align="center" width="400" height="225">
         <a href="https://www.behance.net/Exleven" target="_blank">
-      <img src="https://github.com/user-attachments/assets/9c1f86c9-1f0a-408b-97cf-6d01c593bff7" alt="Fitness Web Application" max-width="100%"></a>
+      <img src="https://github.com/user-attachments/assets/9c1f86c9-1f0a-408b-97cf-6d01c593bff7" alt="Fitness Web Application" style="max-width:100%;"></a>
         <div><strong>Fitness Web Application</strong></div>
         <div><strong><code>NodeJS (Nest.js) | WS | SaaS</code></strong></div>
     </td>
   </tr>
   <tr>
-      <td align="left" width="400" height="225">
+      <td align="center" width="400" height="225">
         <a href="https://exleven.com" target="_blank">
-      <img src="https://dl.dropboxusercontent.com/scl/fi/gsp7w14baopoel9iz4oev/NailsMart.png?rlkey=qow25gete5uxz83ejqim7xhq9&st=hqrz0o1b&dl=0" alt="E-commerce Website" max-height="100%">
+      <img src="https://dl.dropboxusercontent.com/scl/fi/gsp7w14baopoel9iz4oev/NailsMart.png?rlkey=qow25gete5uxz83ejqim7xhq9&st=hqrz0o1b&dl=0" alt="E-commerce Website" style="max-height:100%;">
     </a>
         <div><strong>E-commerce Website</strong></div>
         <div><strong><code>WordPress | WooCommerce | E-commerce</code></strong></div>
     </td>
-    <td align="left" width="400" height="225">
+    <td align="center" width="400" height="225">
         <a href="https://exleven.com" target="_blank">
-      <img src="https://dl.dropboxusercontent.com/scl/fi/r2w8cxez0zce1g77yx2wo/RoflsFun.png?rlkey=81okaz4wdpy0odsezbcc5oi7w&st=qlfqokms&dl=0" alt="Gaming Web Application" max-width="100%">
+      <img src="https://dl.dropboxusercontent.com/scl/fi/r2w8cxez0zce1g77yx2wo/RoflsFun.png?rlkey=81okaz4wdpy0odsezbcc5oi7w&st=qlfqokms&dl=0" alt="Gaming Web Application" style="max-width:100%;">
     </a>
         <div><strong>Gaming Web Application</strong></div>
-        <div><strong><code>NodeJS (Nest.js) | Real-time | Multiplayer | AI integration | High Load</code></strong></div>
+        <div><strong><code>NodeJS (Nest.js) | Real-time | Multiplayer | AI integration</code></strong></div>
     </td>
   </tr>
   <tr>
-    <td align="left" width="400" height="225">
+    <td align="center" width="400" height="225">
         <a href="https://exleven.com" target="_blank">
-      <img src="https://github.com/user-attachments/assets/99f7c05a-cbaa-418e-9e71-ef2fc2cbf864" alt="Barbershop Website Design" max-width="100%">
+      <img src="https://github.com/user-attachments/assets/99f7c05a-cbaa-418e-9e71-ef2fc2cbf864" alt="Barbershop Website Design" style="max-width:100%;">
     </a>
         <div><strong>Barbershop Website Design</strong></div>
         <div><strong><code>UX/UI | Figma | Adobe Photoshop | Graphic Design</code></strong></div>
     </td>
-    <td align="left" width="400" height="225">
+    <td align="center" width="400" height="225">
         <a href="https://exleven.com" target="_blank">
-      <img src="https://github.com/user-attachments/assets/88225b69-3915-4ca2-9fd5-89d29f5558db" alt="E-commerce Website" max-height="100%">
+      <img src="https://github.com/user-attachments/assets/88225b69-3915-4ca2-9fd5-89d29f5558db" alt="E-commerce Website" style="max-height:100%;">
     </a>
         <div><strong>E-commerce Website</strong></div>
         <div><strong><code>Next.js | NodeJS (Nest.js) | E-commerce</code></strong></div>
